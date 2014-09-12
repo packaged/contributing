@@ -1,15 +1,13 @@
 Contribution Guides
 ============
 
-Ensure your line endings are consistent 
-
-https://help.github.com/articles/dealing-with-line-endings#global-settings-for-line-endings
-
 Contributions are **welcome** and will be fully **credited**.
 
 We accept contributions via Pull Requests on [Github](https://github.com/packaged/:package_name).
 
 ## Pull Requests
+
+- ***Ensure your line endings are consistent*** - ( https://help.github.com/articles/dealing-with-line-endings#global-settings-for-line-endings)
 
 - **Add tests!** - Your patch won't be accepted if it doesn't have tests.
 
